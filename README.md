@@ -15,13 +15,6 @@ Versatile technologist with a passion for creating innovative solutions that ble
 - **3D & Animation:** Blender, Rive
 - **Database & Cloud:** Azure SQL Server, MongoDB, AWS
 
-### 🏆 Achievements:
-
-- Developed a charity organization mobile app serving hundreds of thousands of users across the US
-- Created an innovative Augmented Reality (AR) photo experience for event spaces
-- Rebuilt and modernized a charity organization mobile app serving hundreds of thousands of users across the US Expo and React Native
-- Designed and managed immersive event spaces for major brands and conferences
-
 ### 📚 Certifications:
 
 - Certified Project Manager
