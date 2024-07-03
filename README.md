@@ -4,12 +4,8 @@
 
 Versatile technologist with a passion for creating innovative solutions that blend creativity, code, and immersive experiences. With expertise spanning full-stack development, multimedia production, and experiential event management, I bring a unique perspective to every project.
 
-### 🚀 What I'm all about:
-
-- 🛠️ Developing cutting-edge mobile apps and web applications
-- 🎬 Crafting engaging multimedia experiences
-- 🏗️ Designing and managing immersive physical and digital spaces
-- 🔍 Solving problems with a creative, tech-driven approach
+| 🚀 What I'm all about: <br><br> • 🛠️ Developing cutting-edge mobile apps and web applications <br> • 🎬 Crafting engaging multimedia experiences <br> • 🏗️ Designing and managing immersive physical and digital spaces <br> • 🔍 Solving problems with a creative, tech-driven approach | <img src="octocat-1719971780153.png" alt="Joseph Dunivan" width="400"/> |
+|:---|:---:|
 
 ### 🛠️ Tech Stack & Skills:
 
