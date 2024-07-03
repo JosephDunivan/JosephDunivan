@@ -9,8 +9,8 @@ Versatile technologist with a passion for creating innovative solutions that ble
 
 ### 🛠️ Tech Stack & Skills:
 
-- **Languages:** JavaScript, TypeScript, Python, HTML5, CSS
-- **Frameworks/Libraries/Tools:** React, React Native, Angular, Expo, Git, GitHub Actions, Circle CI
+- **Languages:** JavaScript, TypeScript, Python, HTML5, CSS, Dart
+- **Frameworks/Libraries/Tools:** Flutter, React, React Native, Angular, Expo, Git, GitHub Actions, Circle CI
 - **Design Tools:** Figma, Storybook, Adobe Suite (XD, After Effects, Premiere Pro, Audition, Illustrator)
 - **3D & Animation:** Blender, Rive
 - **Database & Cloud:** Azure SQL Server, MongoDB, AWS
@@ -19,6 +19,7 @@ Versatile technologist with a passion for creating innovative solutions that ble
 
 - Certified Project Manager
 - Certified Data Scientist (DataCamp)
+- Certified Engineer (IBM)
 
 ### 🌟 Featured Projects:
 
